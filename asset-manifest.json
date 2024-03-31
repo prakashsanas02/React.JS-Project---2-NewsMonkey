@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React.JS-Project---2-NewsMonkey/static/css/main.dc4d6ff2.css",
+    "main.js": "/React.JS-Project---2-NewsMonkey/static/js/main.727655e3.js",
+    "static/js/453.20ccd293.chunk.js": "/React.JS-Project---2-NewsMonkey/static/js/453.20ccd293.chunk.js",
+    "index.html": "/React.JS-Project---2-NewsMonkey/index.html",
+    "main.dc4d6ff2.css.map": "/React.JS-Project---2-NewsMonkey/static/css/main.dc4d6ff2.css.map",
+    "main.727655e3.js.map": "/React.JS-Project---2-NewsMonkey/static/js/main.727655e3.js.map",
+    "453.20ccd293.chunk.js.map": "/React.JS-Project---2-NewsMonkey/static/js/453.20ccd293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.727655e3.js"
+  ]
+}
